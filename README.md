@@ -1,2 +1,21 @@
-# dio_pythonbackend_fundamentos
-Este repositório contém um sistema backend em Python para simular operações bancárias básicas: depósito, saque, extrato e saída. Ideal para iniciantes, aborda conceitos fundamentais de Python como estruturas de repetição, condicionais, conversões de dados e manipulação de entradas e saídas. 
+# Banco Dext Backend
+
+Este repositório contém um sistema backend simples desenvolvido em Python que simula operações bancárias básicas. O sistema permite ao usuário realizar depósitos, saques, visualizar o extrato e sair do programa. Este projeto é ideal para iniciantes em Python, pois cobre conceitos fundamentais da linguagem.
+
+## Funcionalidades
+
+- **Depósito**: Permite ao usuário adicionar fundos à sua conta.
+- **Saque**: Permite ao usuário retirar fundos da sua conta, desde que haja saldo suficiente.
+- **Extrato**: Exibe todas as transações realizadas na conta.
+- **Sair**: Encerra o programa.
+
+## Conceitos Abordados
+
+- Estruturas de repetição (`while`)
+- Estruturas condicionais (`if` e `elif`)
+- Conversões de dados
+- Entradas e saídas de dados
+
+## Requisitos
+
+- Python 3.x
